@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @duressaJemal
 - 👀 I’m interested in coding, chess, football
-- 🌱 I’m currently learning Software Engineering in Addis Ababa University.
-- 💞️ I’m looking to collaborate on Flutter, Firebase, Django, Node.js, React.js, Next.js ...
+- 🌱 I’m a Software Engineer.
+- 💞️ I’m looking to collaborate on Django, Node.js, React.js, Next.js Flutter ...
 - 📫 How to reach me: duressajemal3@gmail.com
 
 
